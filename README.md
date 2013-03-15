@@ -2,7 +2,7 @@
 
 This is a mirror of [http://www.vim.org/scripts/script.php?script_id=1338]()
 
-Recommend use [pathogen](https://github.com/tpope/vim-pathogen/) to manange your plugins
+Recommend use [pathogen](https://github.com/tpope/vim-pathogen/) to manage your plugins
 
 ## Changlog ##
 
